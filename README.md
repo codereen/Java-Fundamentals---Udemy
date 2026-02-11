@@ -10,5 +10,6 @@ through a Udemy beginner course.
 - Arrays
 - Strings
 - Basic Java syntax and structure
+- Methods
 
 This repository reflects my learning progress and hands-on practice.
