@@ -11,5 +11,7 @@ through a Udemy beginner course.
 - Strings
 - Basic Java syntax and structure
 - Methods
+- Classes
+- Static and Instance methods
 
 This repository reflects my learning progress and hands-on practice.
